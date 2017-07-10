@@ -13,7 +13,7 @@ import java.util.List;
 
 import entry.HomePage;
 import iface.IOnItemClickListener;
-import refactor.flyme.com.refactorproject1.R;
+import refactor.flyme.com.group.R;
 
 /**
  * Created by msi on 2017/6/11.

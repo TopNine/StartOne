@@ -9,7 +9,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import refactor.flyme.com.refactorproject1.R;
+import refactor.flyme.com.group.R;
 
 /**
  * Created by msi on 2017/6/7.

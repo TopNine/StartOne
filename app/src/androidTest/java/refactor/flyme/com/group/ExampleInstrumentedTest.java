@@ -1,4 +1,4 @@
-package refactor.flyme.com.refactorproject1;
+package refactor.flyme.com.group;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
